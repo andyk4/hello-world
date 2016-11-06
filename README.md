@@ -1,4 +1,2 @@
 # hello-world
-Still seeing what this does.
-
-Wouldn't be surprised if something surprises me.
+First repository out of the gate. We'll see how long it hangs around.
